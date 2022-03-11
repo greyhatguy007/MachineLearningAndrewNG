@@ -12,3 +12,11 @@
 - [Lectures](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/ex2/Lectures)
 - [Notes](https://github.com/greyhatguy007/MachineLearningAndrewNG/blob/main/home/ex2/Lectures/notes.pdf)
 - [Solutions](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/ex2/)
+
+<hr/>
+
+### Additional Resources:
+- [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
+- [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression)
+
+##### Credits : Respective Sources
