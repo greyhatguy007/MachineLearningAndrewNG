@@ -1,4 +1,4 @@
-# Machine Learning With Andrew NG
+#  Machine Learning With Andrew NG 
 
 [Coursera - Machine Learning by Stanford University](https://www.coursera.org/learn/machine-learning)
 
@@ -32,5 +32,11 @@ Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
 
 
 [Full Course Lecture On Youtube](https://youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+
+<hr/>
+
+<img src = "https://www.azquotes.com/picture-quotes/quote-no-one-knows-what-the-right-algorithm-is-but-it-gives-us-hope-that-if-we-can-discover-andrew-ng-125-25-69.jpg" height="40%" width=40%/>
+
+
 
 ##### Credits : Respective Sources
