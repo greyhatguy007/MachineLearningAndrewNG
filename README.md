@@ -2,7 +2,7 @@
 
 [Coursera - Machine Learning by Stanford University](https://www.coursera.org/learn/machine-learning)
 
-Instructor- [Andrew NG](https://www.andrewng.org/)
+Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
 
 ### Exercise 1:
 - [Lectures](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/ex1/Letcures)
