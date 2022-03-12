@@ -18,5 +18,7 @@
 ### Additional Resources:
 - [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
 - [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression)
+- [Octave Reference](https://octave.org/octave.pdf)
+- [Further Useful Resources](https://www.coursera.org/learn/machine-learning/resources/NrY2G)
 
 ##### Credits : Respective Sources
