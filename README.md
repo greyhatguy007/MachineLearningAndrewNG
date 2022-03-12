@@ -37,8 +37,10 @@ Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
 
 <hr/>
 
+### Bonus Motivation:
+
 <img src = "https://www.azquotes.com/picture-quotes/quote-no-one-knows-what-the-right-algorithm-is-but-it-gives-us-hope-that-if-we-can-discover-andrew-ng-125-25-69.jpg" height="45%" width=45%/>
 
-
+<hr/>
 
 ##### Credits : Respective Sources
