@@ -23,4 +23,7 @@ Instructor- [Andrew NG](https://www.andrewng.org/)
 - [Octave Reference](https://octave.org/octave.pdf)
 - [Further Useful Resources](https://www.coursera.org/learn/machine-learning/resources/NrY2G)
 
+
+[Full Course Lecture On Youtube](https://youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+
 ##### Credits : Respective Sources
