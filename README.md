@@ -18,8 +18,8 @@ Instructor- [Andrew NG](https://www.andrewng.org/)
 <hr/>
 
 ### Additional Resources:
-- [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
-- [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression)
+- [Linear Regression](https://adit.io/posts/2016-02-20-Linear-Regression-in-Pictures.html)
+- [Logistic Regression](https://adit.io/posts/2016-03-13-Logistic-Regression.html#non-linear-classification)
 - [Octave Reference](https://octave.org/octave.pdf)
 - [Further Useful Resources](https://www.coursera.org/learn/machine-learning/resources/NrY2G)
 
