@@ -17,6 +17,13 @@ Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
 
 <hr/>
 
+### Programming Exercise Tutorials
+- [Discussion Forum - Tutorials](https://www.coursera.org/learn/machine-learning/discussions/all/threads/m0ZdvjSrEeWddiIAC9pDDA)
+- [Course Discussion](https://www.coursera.org/learn/machine-learning/discussions/all/threads/0SxufTSrEeWPACIACw4G5w)
+
+
+<hr/>
+
 ### Additional Resources:
 - [Linear Regression](https://adit.io/posts/2016-02-20-Linear-Regression-in-Pictures.html)
 - [Logistic Regression](https://adit.io/posts/2016-03-13-Logistic-Regression.html#non-linear-classification)
