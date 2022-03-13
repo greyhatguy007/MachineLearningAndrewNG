@@ -42,5 +42,5 @@ Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
 <img src = "https://www.azquotes.com/picture-quotes/quote-no-one-knows-what-the-right-algorithm-is-but-it-gives-us-hope-that-if-we-can-discover-andrew-ng-125-25-69.jpg" height="50%" width=50%/>
 
 <hr/>
- 
+
 ##### Credits : Respective Sources
