@@ -30,35 +30,13 @@
 
 </br>
 
-- What is Neural Network ?
+- [What is Neural Network ?](https://youtu.be/aircAruvnKk)
 
-<p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aircAruvnKk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+- [Gradient Descent in NN](https://youtu.be/IHZwWFHWa-w)
 
-</br>
+- [Backpropagation](https://youtu.be/Ilg3gGewQ5U)
 
-- Gradient Descent in NN
-
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IHZwWFHWa-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-</p>
-
-- Backpropagation
-
-<p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ilg3gGewQ5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-
-</br>
-
-- Calculus Behind Backpropagation
-
-<p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tIeHLnjs5U8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+- [Calculus Behind Backpropagation](https://youtu.be/tIeHLnjs5U8)
 
 </br>
 
