@@ -22,6 +22,11 @@ Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
   - [Notes](https://github.com/greyhatguy007/MachineLearningAndrewNG/blob/main/home/ex3/Lectures/notes.pdf)
   - [Solutions](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/ex3/)
 
+- ### Exercise 4:
+  - [Lectures](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/ex4/Lectures)
+  - [Notes](https://github.com/greyhatguy007/MachineLearningAndrewNG/blob/main/home/ex4/Lectures/notes.pdf)
+  - [Solutions](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/ex4/)
+
 <hr/>
 
 ### Programming Exercise Tutorials
