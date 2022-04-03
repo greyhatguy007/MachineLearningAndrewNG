@@ -32,33 +32,33 @@
 
 - What is Neural Network ?
 
-<div>
+<p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aircAruvnKk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+</p>
 
 </br>
 
 - Gradient Descent in NN
 
-<div>
+<p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IHZwWFHWa-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-</br>
+</p>
 
 - Backpropagation
 
-<div>
+<p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ilg3gGewQ5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+</p>
 
 </br>
 
 - Calculus Behind Backpropagation
 
-<div>
+<p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tIeHLnjs5U8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+</p>
 
 </br>
 
