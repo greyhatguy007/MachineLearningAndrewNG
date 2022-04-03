@@ -36,7 +36,7 @@ Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
 - [Logistic Regression](https://adit.io/posts/2016-03-13-Logistic-Regression.html#non-linear-classification)
 - [Octave Reference](https://octave.org/octave.pdf)
 - [Further Useful Resources](https://www.coursera.org/learn/machine-learning/resources/NrY2G)
-- [Neural Networks](http://neuralnetworksanddeeplearning.com/index.html)
+- [Neural Networks](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/extras)
 
 [Full Course Lecture On Youtube](https://youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 
