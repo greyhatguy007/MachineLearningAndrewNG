@@ -10,4 +10,3 @@
 ![](https://github.com/greyhatguy007/MachineLearningAndrewNG/blob/main/home/ex5/Lectures/imgs/ss8.png)
 ![](https://github.com/greyhatguy007/MachineLearningAndrewNG/blob/main/home/ex5/Lectures/imgs/ss9.png)
 ![](https://github.com/greyhatguy007/MachineLearningAndrewNG/blob/main/home/ex5/Lectures/imgs/ss10.png)
-![](https://github.com/greyhatguy007/MachineLearningAndrewNG/blob/main/home/ex5/Lectures/imgs/ss11.png)
