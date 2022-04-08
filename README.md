@@ -29,6 +29,13 @@ Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
 
 <hr/>
 
+- ### Exercise 5:
+  - [Lectures](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/ex5/Lectures)
+  - [Notes](https://github.com/greyhatguy007/MachineLearningAndrewNG/blob/main/home/ex5/Lectures/notes.pdf)
+  - [Solutions](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/ex5/)
+
+<hr/>
+
 ### Programming Exercise Tutorials
 - [Discussion Forum - Tutorials](https://www.coursera.org/learn/machine-learning/discussions/all/threads/m0ZdvjSrEeWddiIAC9pDDA)
 - [Course Discussion](https://www.coursera.org/learn/machine-learning/discussions/all/threads/0SxufTSrEeWPACIACw4G5w)
