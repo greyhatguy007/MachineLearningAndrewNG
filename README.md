@@ -7,22 +7,26 @@ Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
 ## Course:
 
 - ### Exercise 1:
+  #### Week 2
   - [Lectures](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/ex1/Letcures)
   - [Notes](https://github.com/greyhatguy007/MachineLearningAndrewNG/blob/main/home/ex1/Letcures/notes.pdf)
   - [Solutions](https://github.com/greyhatguy007/MachineLearningAndrewNG/blob/main/home/ex1/)
 
 
 - ### Exercise 2:
+  #### Week 3
   - [Lectures](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/ex2/Lectures)
   - [Notes](https://github.com/greyhatguy007/MachineLearningAndrewNG/blob/main/home/ex2/Lectures/notes.pdf)
   - [Solutions](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/ex2/)
 
 - ### Exercise 3:
+  #### Week 4
   - [Lectures](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/ex3/Lectures)
   - [Notes](https://github.com/greyhatguy007/MachineLearningAndrewNG/blob/main/home/ex3/Lectures/notes.pdf)
   - [Solutions](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/ex3/)
 
 - ### Exercise 4:
+  #### Week 5
   - [Lectures](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/ex4/Lectures)
   - [Notes](https://github.com/greyhatguy007/MachineLearningAndrewNG/blob/main/home/ex4/Lectures/notes.pdf)
   - [Solutions](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/ex4/)
@@ -30,6 +34,7 @@ Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
 <hr/>
 
 - ### Exercise 5:
+  #### Week 6
   - [Lectures](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/ex5/Lectures)
   - [Notes](https://github.com/greyhatguy007/MachineLearningAndrewNG/blob/main/home/ex5/Lectures/notes.pdf)
   - [Solutions](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/ex5/)
@@ -37,6 +42,7 @@ Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
 <hr/>
 
 - ### Exercise 6:
+  #### Week 7
   - [Lectures](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/ex6/Lectures)
   - [Notes](https://github.com/greyhatguy007/MachineLearningAndrewNG/blob/main/home/ex6/Lectures/notes.pdf)
   - [Solutions](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/ex6/)
