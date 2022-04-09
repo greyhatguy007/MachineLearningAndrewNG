@@ -36,6 +36,13 @@ Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
 
 <hr/>
 
+- ### Exercise 6:
+  - [Lectures](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/ex6/Lectures)
+  - [Notes](https://github.com/greyhatguy007/MachineLearningAndrewNG/blob/main/home/ex6/Lectures/notes.pdf)
+  - [Solutions](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/ex6/)
+
+<hr/>
+
 ### Programming Exercise Tutorials
 - [Discussion Forum - Tutorials](https://www.coursera.org/learn/machine-learning/discussions/all/threads/m0ZdvjSrEeWddiIAC9pDDA)
 - [Course Discussion](https://www.coursera.org/learn/machine-learning/discussions/all/threads/0SxufTSrEeWPACIACw4G5w)
