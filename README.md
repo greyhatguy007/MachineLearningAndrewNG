@@ -8,64 +8,64 @@ Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
 
 ### Week 1
   - [Lectures](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/week1/Lectures)
-  - [Notes](https://github.com/greyhatguy007/MachineLearningAndrewNG/blob/main/home/week1/Letcures/notes.pdf)
+  - [Notes](https://github.com/greyhatguy007/MachineLearningAndrewNG/blob/main/home/week1/Lectures/notes.pdf)
 
 <hr/>
 
 ### Week 2
-  - [Lectures](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/week1/Letcures)
-  - [Notes](https://github.com/greyhatguy007/MachineLearningAndrewNG/blob/main/home/week1/Lectures/notes.pdf)
-  - [Solutions](https://github.com/greyhatguy007/MachineLearningAndrewNG/blob/main/home/week1/)
+  - [Lectures](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/week2/Lectures)
+  - [Notes](https://github.com/greyhatguy007/MachineLearningAndrewNG/blob/main/home/week2/Lectures/notes.pdf)
+  - [Solutions](https://github.com/greyhatguy007/MachineLearningAndrewNG/blob/main/home/week2/)
 
 <hr/>
 
 ### Week 3
-  - [Lectures](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/week2/Lectures)
-  - [Notes](https://github.com/greyhatguy007/MachineLearningAndrewNG/blob/main/home/week2/Lectures/notes.pdf)
-  - [Solutions](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/week2/)
-
-<hr/>
-
-### Week 4
   - [Lectures](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/week3/Lectures)
   - [Notes](https://github.com/greyhatguy007/MachineLearningAndrewNG/blob/main/home/week3/Lectures/notes.pdf)
   - [Solutions](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/week3/)
 
 <hr/>
 
-### Week 5
+### Week 4
   - [Lectures](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/week4/Lectures)
   - [Notes](https://github.com/greyhatguy007/MachineLearningAndrewNG/blob/main/home/week4/Lectures/notes.pdf)
   - [Solutions](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/week4/)
 
 <hr/>
 
-
-### Week 6
+### Week 5
   - [Lectures](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/week5/Lectures)
   - [Notes](https://github.com/greyhatguy007/MachineLearningAndrewNG/blob/main/home/week5/Lectures/notes.pdf)
   - [Solutions](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/week5/)
 
 <hr/>
 
-### Week 7
+
+### Week 6
   - [Lectures](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/week6/Lectures)
   - [Notes](https://github.com/greyhatguy007/MachineLearningAndrewNG/blob/main/home/week6/Lectures/notes.pdf)
   - [Solutions](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/week6/)
 
 <hr/>
 
-### Week 8
+### Week 7
   - [Lectures](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/week7/Lectures)
   - [Notes](https://github.com/greyhatguy007/MachineLearningAndrewNG/blob/main/home/week7/Lectures/notes.pdf)
   - [Solutions](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/week7/)
 
 <hr/>
 
-### Week 9
+### Week 8
   - [Lectures](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/week8/Lectures)
   - [Notes](https://github.com/greyhatguy007/MachineLearningAndrewNG/blob/main/home/week8/Lectures/notes.pdf)
   - [Solutions](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/week8/)
+
+<hr/>
+
+### Week 9
+  - [Lectures](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/week9/Lectures)
+  - [Notes](https://github.com/greyhatguy007/MachineLearningAndrewNG/blob/main/home/week9/Lectures/notes.pdf)
+  - [Solutions](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/week9/)
 
 <hr/>
 
