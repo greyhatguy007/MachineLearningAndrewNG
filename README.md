@@ -104,4 +104,9 @@ Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
 
 <hr/>
 
+### Certificate Of Completion
+
+<img src = "https://github.com/greyhatguy007/resources/blob/main/ml-certificate.png" height="70%" width=70%/>
+
+
 ##### Credits : Respective Sources
