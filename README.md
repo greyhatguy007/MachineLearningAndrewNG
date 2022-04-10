@@ -69,6 +69,17 @@ Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
 
 <hr/>
 
+### Week 10
+  - [Lectures](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/week10/Lectures)
+  - [Notes](https://github.com/greyhatguy007/MachineLearningAndrewNG/blob/main/home/week10/Lectures/notes.pdf)
+
+<hr/>
+
+### Week 11
+  - [Lectures](https://github.com/greyhatguy007/MachineLearningAndrewNG/tree/main/home/week11/Lectures)
+
+<hr/>
+
 ### Programming Exercise Tutorials
 - [Discussion Forum - Tutorials](https://www.coursera.org/learn/machine-learning/discussions/all/threads/m0ZdvjSrEeWddiIAC9pDDA)
 - [Course Discussion](https://www.coursera.org/learn/machine-learning/discussions/all/threads/0SxufTSrEeWPACIACw4G5w)
