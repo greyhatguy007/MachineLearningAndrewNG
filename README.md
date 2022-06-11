@@ -1,5 +1,7 @@
 #  Machine Learning With Andrew NG 
 
+![](/MachineLearningAndrewNG/home/extras/resources/head.png)
+
 [Coursera - Machine Learning by Stanford University](https://www.coursera.org/learn/machine-learning)
 
 Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
@@ -98,11 +100,7 @@ Instructor- [Prof. Andrew NG](https://www.andrewng.org/)
 
 <hr/>
 
-### Bonus Motivation:
 
-<img src = "https://www.azquotes.com/picture-quotes/quote-no-one-knows-what-the-right-algorithm-is-but-it-gives-us-hope-that-if-we-can-discover-andrew-ng-125-25-69.jpg" height="50%" width=50%/>
-
-<hr/>
 
 ### Certificate Of Completion
 
