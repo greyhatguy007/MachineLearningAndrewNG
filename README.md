@@ -1,6 +1,6 @@
 #  Machine Learning With Andrew NG 
 
-![](/MachineLearningAndrewNG/home/extras/resources/head.png)
+![](https://github.com/greyhatguy007/MachineLearningAndrewNG/blob/main/home/extras/resources/head.png)
 
 [Coursera - Machine Learning by Stanford University](https://www.coursera.org/learn/machine-learning)
 
